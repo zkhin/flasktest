@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/zayar/miniconda3/envs/flasktest/bin/python",
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": false
+}
