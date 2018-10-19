@@ -9,11 +9,11 @@ posts = [
     {
         'author': 'Zayar Khin',
         'title': 'Blog Post1',
-        'content': 'First post content',
+        'content': 'Test post content',
         'date_posted': 'Nov 6, 2018'
     },
     {
-        'author': 'John Doe',
+        'author': 'Zayar Khin',
         'title': 'Blog Post2',
         'content': 'Second post content',
         'date_posted': 'Nov 6, 2018'
