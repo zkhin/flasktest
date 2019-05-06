@@ -1,2 +1,2 @@
 # flasktest
-Test for simple blog application in Flask
+Simple blog application in Flask with ability to run server on IOS pythonista
