@@ -1,5 +1,2 @@
 # flasktest
-Test
-pythonista edit
-ivim edit
-
+Test for simple blog application in Flask
